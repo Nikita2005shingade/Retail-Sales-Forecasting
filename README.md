@@ -49,5 +49,7 @@ Author
 Nikita Shingade
 BSc Data Science
 
-Nikita Shingade
-BSc Data Science
+## Live Dashboard
+
+Dashboard Link:
+https://retail-sales-forecasting-9ovabhvwbol4g8oj8xp8zu.streamlit.app/
